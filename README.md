@@ -1,16 +1,41 @@
-## Hi there 👋
+# Javokh1rdev | Junior Web Developer
 
-<!--
-**javokh1rdev/javokh1rdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Junior Web Developer passionate about creating user-friendly web applications. Eager to learn and grow in the field of web development.
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- HTML5
+- CSS3
+- JavaScript (Basic)
+- Python
+- 
+### Frameworks & Libraries
+- Bootstrap
+- Basic React.js
+
+### Tools
+- Git (Basic)
+- VS Code
+- Chrome DevTools
+
+## 📚 Education
+- Self-taught Web Developer
+- Currently learning modern web development technologies
+
+## 🌐 Languages
+- Uzbek (Native)
+- English (Basic)
+
+## 📫 Contact
+- GitHub: [@javokh1rdev](https://github.com/javokh1rdev)
+
+## 🎯 Goals
+- Improve JavaScript skills
+- Master React.js
+- Learn Node.js and backend development
+- Contribute to open-source projects
+
+---
+⭐️ From [@javokh1rdev](https://github.com/javokh1rdev)
